@@ -1,11 +1,7 @@
 # highlightjs-pythonlogging
 
 This is a simple addition to th Syntax highligher [highlight.js](https://github.com/highlightjs/highlight.js)
-to allow for highlighting of Python Logging output:
-
-[python-logging.png](python-logging.png)
-
-Since we can't choose colors to match with the levels, it's up to the user
+to allow for highlighting of Python Logging output. Since we can't choose colors to match with the levels, it's up to the user
 to select a theme to his or her preference. There is no "official" documentation
 for how to add a custom language, but generally you can clone highlight.js:
 
