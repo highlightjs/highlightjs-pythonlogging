@@ -1,0 +1,7 @@
+CRITICAL:logman:This is a FATAL message.
+CRITICAL:logman:This is a CRITICAL message.
+WARNING:logman:This is a WARNING message.
+INFO:logman:This is an INFO message.
+LOG:logman:This is a LOG message.
+ERROR:logman:This is an ERROR message.
+DEBUG:logman:This is a DEBUG message.
