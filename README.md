@@ -1,4 +1,16 @@
+
+
+![](https://img.shields.io/badge/maintainer-needed-red?style=for-the-badge&logo=github)
+
+This project is currently unsupported and needs a maintainer.  If you'd be interested in maintaining this grammar, just open an issue here or against [highlight.js](https://github.com/highlightjs/highlight.js).  Also you may want to review [issue #4](https://github.com/highlightjs/highlightjs-pythonlogging/issues/4).
+
+---
+
 # highlightjs-pythonlogging
+
+![](https://img.shields.io/badge/supported-no-orange)
+![](https://img.shields.io/badge/compatibility-unknown-yellow)
+
 
 This is a simple addition to th Syntax highligher [highlight.js](https://github.com/highlightjs/highlight.js)
 to allow for highlighting of Python Logging output. Since we can't choose colors to match with the levels, it's up to the user
